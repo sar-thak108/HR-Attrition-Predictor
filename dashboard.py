@@ -13,7 +13,7 @@ import sys, os
 sys.path.append(os.path.dirname(__file__))
 from importlib import import_module
 
-MODEL_DIR = "/home/claude/AI-HR-Attrition-Project/models"
+MODEL_DIR = os.path.dirname(os.path.abspath(__file__))
 
 st.set_page_config(page_title="Attrition Risk & Explainability Dashboard", layout="centered")
 st.title("Employee attrition risk — explainable AI dashboard")
