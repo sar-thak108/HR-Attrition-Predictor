@@ -1,0 +1,11 @@
+Feature,Mean_Abs_SHAP,Category
+OverTime,0.048975259359871515,Psychological/behavioral
+Age,0.040889353592725525,Administrative
+MonthlyIncome,0.035101404169410697,Administrative
+StockOptionLevel,0.033188542025037536,Administrative
+YearsAtCompany,0.027746122506796977,Administrative
+TotalWorkingYears,0.023933288276906522,Administrative
+YearsWithCurrManager,0.022506669324519658,Administrative
+DistanceFromHome,0.020209906504864057,Administrative
+NumCompaniesWorked,0.019161842465045535,Administrative
+EnvironmentSatisfaction,0.018844126300038067,Psychological/behavioral

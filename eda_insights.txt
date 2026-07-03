@@ -1,0 +1,8 @@
+Overall attrition rate: 16.1%
+
+Key HR insights (computed from real data):
+- Employees working overtime leave at 30.5% vs 10.4% for those who don't.
+- Lowest job satisfaction (1) group attrition: 22.8% vs highest (4): 11.3%.
+- Worst work-life balance (1) group attrition: 31.2% vs best (4): 17.6%.
+- Single employees attrition: 25.5% vs Married: 12.5%.
+- Median monthly income — left: 3202, stayed: 5204.
